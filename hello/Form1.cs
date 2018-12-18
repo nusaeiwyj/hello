@@ -14,7 +14,7 @@ namespace hello
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //INIT
         }
     }
 }
