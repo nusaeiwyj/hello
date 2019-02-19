@@ -16,8 +16,7 @@ namespace hello
         {
             InitializeComponent(); //INIT  
             //Release v10.87.
-
-            //VER2
+            //
         }
 
         private void button1_Click(object sender, EventArgs e)
