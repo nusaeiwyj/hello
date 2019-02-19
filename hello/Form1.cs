@@ -15,6 +15,8 @@ namespace hello
         public Form1()
         {
             InitializeComponent(); //INIT  
+            //Release v10.87.
+
             //VER2
         }
 
@@ -29,6 +31,8 @@ namespace hello
             //5
             //6
             //RELA
+            //DEV19
+            //DEV19111
         }
     }
 }
