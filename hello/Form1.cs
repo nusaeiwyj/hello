@@ -41,5 +41,16 @@ namespace hello
             //WYJ 7.18
             //5.8
         }
+
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Yellow;
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Red;
+        }
     }
 }
